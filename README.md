@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0412-fizz-buzz) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
