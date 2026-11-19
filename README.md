@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/yashkaur07/MyLeetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0217-contains-duplicate) |
 | [1572-matrix-diagonal-sum](https://github.com/yash-kaur1231/MyLeetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/yashkaur07/MyLeetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashkaur07/MyLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/yashkaur07/MyLeetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
