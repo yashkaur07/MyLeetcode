@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashkaur07/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/yashkaur07/MyLeetcode/tree/master/0056-merge-intervals) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashkaur07/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0035-search-insert-position) |
 ## Sliding Window
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashkaur07/MyLeetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashkaur07/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
