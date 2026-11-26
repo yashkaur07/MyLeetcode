@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/yashkaur07/MyLeetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
