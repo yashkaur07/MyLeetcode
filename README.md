@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashkaur07/MyLeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yashkaur07/MyLeetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/yashkaur07/MyLeetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/yash-kaur1231/MyLeetcode/tree/master/0217-contains-duplicate) |
 | [1572-matrix-diagonal-sum](https://github.com/yash-kaur1231/MyLeetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashkaur07/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yashkaur07/MyLeetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
